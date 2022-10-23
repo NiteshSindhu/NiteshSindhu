@@ -1,11 +1,14 @@
 ![MasterHead](https://www.timefortheweb.com/blog/wp-content/uploads/2017/10/timefortheweb-Blog-Image.gif)
 
-<h1 align="center">Hi 👋, I'm Nitesh Sindhu</h1>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Nitesh Sindhu</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdei&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+Web+Developer;I'm+a+Software+Engineer" /></a>
+</p>
 <h3 align="center">A passionate Full Stack Web Developer from Haryana,India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NiteshSindhu&label=Profile%20views&color=0e75b6&style=flat" alt="Nitesh Sindhu" /> </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NiteshSindhu" alt="ravikr2" /></a> </p>
 <p align="left"> <a href="https://www.linkedin.com/in/nitesh-sindhu-150473203/" target="_blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin-circled.png" alt="https://www.linkedin.com/in/nitesh-sindhu-150473203/" height="30" width="40" /></a> </p>
 
 - 🔭 I’m currently working on **Prenting Press Website**
@@ -33,3 +36,18 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NiteshSindhu&show_icons=true&locale=en" alt="Nitesh Sindhu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NiteshSindhu&" alt="Nitesh Sindhu" /></p>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{NiteshSindhu}/count.svg" /></p> 
+<br></div>
+<p align="center">
+<img align="" height='120px' src="https://github.com/Dev-Mriganka/Dev-Mriganka/blob/main/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/Dev-Mriganka/Dev-Mriganka/blob/main/Geometric%20White.gif" />
+</p>
+<br>
+<hr>
+<p align="center">
+  <i>Ask me anything I'am Happy to Help! </i>
+  <br><br>
+<a target="_blank" href="https://www.linkedin.com/in/nitesh-sindhu-150473203/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="niteshsindhu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
